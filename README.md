@@ -1,6 +1,6 @@
-## Indices
+## List of Indices
 - Capacity utilization (a.k.a Capability utilization)
 
-### Capacity Utilization
+## Capacity Utilization
 - Steel Industry
   - https://www.steel.org/industry-data
